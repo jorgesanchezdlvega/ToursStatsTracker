@@ -1,6 +1,6 @@
 # Stockholm Tour Stats Tracker Dashboard
 
-Deployed webbapp: [**Stockholm Tour Stats Tracker**](stockholm-tour-tracker.lovable.app)
+Deployed webbapp: [**Stockholm Tour Stats Tracker**](https://stockholm-tour-tracker.lovable.app/)
 
 This project is a **personal dashboard** for tracking walking tours I give in Stockholm as a free tour guide.
 
