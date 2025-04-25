@@ -17,7 +17,7 @@ It allows me to:
 
 This project was entirely created using [**Lovable.dev**](https://lovable.dev) — a no-code builder that uses Supabase as a backend and generates React code.
 
-> 🛠️ **Note:** I did not hand-code this project.  
+> **Note:** I did not hand-code this project.  
 > It was generated with Lovable.dev and exported for portfolio/demo purposes.
 
 ---
