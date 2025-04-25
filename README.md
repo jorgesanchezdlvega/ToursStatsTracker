@@ -1,4 +1,4 @@
-# Stockholm Tour Stats Tracker Dashboard 🗺️
+# Stockholm Tour Stats Tracker Dashboard
 
 This project is a **personal dashboard** for tracking walking tours I give in Stockholm as a free tour guide.
 
@@ -11,7 +11,7 @@ It allows me to:
 
 ---
 
-## ⚙️ Built With
+## Built With
 
 This project was entirely created using [**Lovable.dev**](https://lovable.dev) — a no-code builder that uses Supabase as a backend and generates React code.
 
@@ -20,7 +20,7 @@ This project was entirely created using [**Lovable.dev**](https://lovable.dev) �
 
 ---
 
-## 🔒 Score System for Privacy
+## Score System for Privacy
 
 To avoid showing real money amounts publicly, the project includes a **private "Money Collected (SEK)"** field which is never shown in the UI.  
 Instead, it calculates a **score** from 0 to 10 based on the average amount collected per person. 
@@ -28,7 +28,7 @@ This allows me to analyze and visualize data without exposing sensitive values.
 
 ---
 
-## 📊 Features
+## Features
 
 - Add/edit/delete tour entries
 - Track both **Free Tours** and **Private Tours**
